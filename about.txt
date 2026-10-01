@@ -1,1 +1,2 @@
  Practicing repository Git Commands 
+ I am Practicing add, commit, push, status and log. 
